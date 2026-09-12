@@ -36,7 +36,7 @@ Conditional rendering means displaying different UI elements based on specific c
       <StackItem item="{item}" key="{item.id}"/>
     ))}
   </div>
-)}
+)}```
 
 
 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
