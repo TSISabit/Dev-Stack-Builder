@@ -1,3 +1,17 @@
+### Dev Stack Builder
+
+Dev Stack provides an interactive platform for discovering frontend, backend, database, and development tools. It allows users to create and manage a custom technology stack through a clean and responsive user interface.
+
+Technologies used:
+React.js , Tailwind CSS , JavaScript (ES6) , React-Toastify (NPM Package) , JSON (for technology data) , Vite (build tool)
+
+3 Main Features of Dev Stack Builder
+    i. Technology Selection
+    ii. Stack Management
+    iii. Dynamic Data Loading
+
+
+
 ### 1. What is JSX, and why is it used in React?
 JSX stands for JavaScript XML. It lets us write HTML-like markup directly inside JavaScript files. It makes writing and understanding component UI structures much easier and visual. React transforms into standard browser-readable JavaScript elements.
 
